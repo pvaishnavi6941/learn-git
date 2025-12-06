@@ -1,2 +1,2 @@
-# i-website
+# learn-git
 Learning Git
